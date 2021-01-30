@@ -1,2 +1,2 @@
 # FacialRecognitionFlask
-Add any tensorflow weights file as face_detector_best.h5
+Classifies images of Colin Powell, George Bush, and Tony Blair
